@@ -10,7 +10,7 @@ trabalhar com computação em nuvem e utilizar as principais tecnologias do merc
 ---
 
 ### 🛠️ Ferramentas e Tecnologias de Dados
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
@@ -23,18 +23,23 @@ trabalhar com computação em nuvem e utilizar as principais tecnologias do merc
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deputado228v&layout=compact&langs_count=6&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deputado220v&layout=compact&langs_count=6&theme=tokyonight)
-
-![Pietro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deputado220v&show_icons=true&theme=tokyonight&hide=prs,issues)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deputado228v&show_icons=true&theme=tokyonight&hide=prs,issues" />
+</p>
 
 ---
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seu-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:seuemail@gmail.com)
-
----
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
