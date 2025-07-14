@@ -1,7 +1,7 @@
 <h1 align="left">👋 Pietro Enrico</h1>
 
 <p align="left">
-Sou estudante de Ciência da Computação, com grande interesse e paixão pela área de dados. <br>
+Sou estudante de Ciência da Computação, com grande interesse e paixão pela área de dados. 
 Estou iniciando minha trajetória nesse campo, sempre com muita curiosidade e disposição para aprender.<br>
 Tenho um interesse especial na profissão de engenheiro de dados, onde é possível automatizar projetos, construir pipelines, 
 trabalhar com computação em nuvem e utilizar as principais tecnologias do mercado, como <strong>Python, R, SQL e Airflow</strong>.
