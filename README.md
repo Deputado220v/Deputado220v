@@ -23,15 +23,18 @@ trabalhar com computação em nuvem e utilizar as principais tecnologias do merc
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deputado220v&layout=compact&langs_count=6&theme=tokyonight" />
-</p>
+### 📊 GitHub Stats
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deputado220v&show_icons=true&theme=tokyonight&hide=prs,issues" />
-</p>
-
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deputado220v&layout=compact&langs_count=6&theme=tokyonight" width="400" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Deputado220v&show_icons=true&theme=tokyonight&hide=prs,issues" width="400" />
+    </td>
+  </tr>
+</table>
 
 ### 📫 Contato
 
