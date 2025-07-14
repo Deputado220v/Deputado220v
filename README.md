@@ -1,6 +1,6 @@
-<h1 align="center">👋 Pietro Enrico</h1>
+<h1 align="left">👋 Pietro Enrico</h1>
 
-<p align="center">
+<p align="left">
 Sou estudante de Ciência da Computação, com grande interesse e paixão pela área de dados. <br>
 Estou iniciando minha trajetória nesse campo, sempre com muita curiosidade e disposição para aprender.<br>
 Tenho um interesse especial na profissão de engenheiro de dados, onde é possível automatizar projetos, construir pipelines, 
@@ -25,9 +25,9 @@ trabalhar com computação em nuvem e utilizar as principais tecnologias do merc
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deputado228v&layout=compact&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deputado220v&layout=compact&langs_count=6&theme=tokyonight)
 
-![Pietro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deputado228v&show_icons=true&theme=tokyonight&hide=prs,issues)
+![Pietro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deputado220v&show_icons=true&theme=tokyonight&hide=prs,issues)
 
 ---
 
